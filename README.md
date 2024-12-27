@@ -1,6 +1,3 @@
-Here's your updated `README.md` file with the screenshot hosted on your GitHub repository:
-
----
 
 # Elegant Android Calculator
 
