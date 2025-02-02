@@ -1,0 +1,6 @@
+com.example.hitfirstpro.test.app-annotation-experimental-1.3.0-0 C:\Users\user\.gradle\caches\8.9\transforms\099bea667c1dd095caa83feb3a61af64\transformed\annotation-experimental-1.3.0\res
+com.example.hitfirstpro.test.app-core-1.5.0-1 C:\Users\user\.gradle\caches\8.9\transforms\4870dc008cbfc93b3bc1575b850bb689\transformed\core-1.5.0\res
+com.example.hitfirstpro.test.app-androidTest-2 C:\Users\user\AndroidStudioProjects\HitFirstPro\app\build\generated\res\resValues\androidTest\debug
+com.example.hitfirstpro.test.app-mergeDebugAndroidTestResources-3 C:\Users\user\AndroidStudioProjects\HitFirstPro\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.hitfirstpro.test.app-mergeDebugAndroidTestResources-4 C:\Users\user\AndroidStudioProjects\HitFirstPro\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.hitfirstpro.test.app-debugAndroidTest-5 C:\Users\user\AndroidStudioProjects\HitFirstPro\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
