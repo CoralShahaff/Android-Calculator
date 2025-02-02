@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyApplicationRV"
+rootProject.name = "HitFirstPro"
 include(":app")
